@@ -1,0 +1,27 @@
+{
+  "name": "blogsystem",
+  "version": "1.0.0",
+  "description": "Qist BlogSystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://qistchan@github.com/qistchan/BlogSystem.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "QistChan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qistchan/BlogSystem/issues"
+  },
+  "homepage": "https://github.com/qistchan/BlogSystem#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
